@@ -1,7 +1,6 @@
 package Ex2;
 
 import java.util.Scanner;
-
 /*
 Faça um programa que peça uma nota, entre zero e dez.
 Mostre uma mensagem caso o valor seja inválido
